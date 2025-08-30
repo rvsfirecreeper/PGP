@@ -1,2 +1,3 @@
 # PGP
-My PGP Public Key
+My PGP Public Key.
+Fingerprint: C6EEC745F99D3A948671C356 827F C5AF 5132 4326
